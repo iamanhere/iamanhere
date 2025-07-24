@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Product Manger from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanhere&label=Profile%20views&color=0e75b6&style=flat" alt="iamanhere" /> </p>
 
-- 🔭 I’m currently working on **Music Player Web App.**
+- 🔭 I’m currently working on **KPI Tool For Marketing Agency.**
 
-- 🌱 I’m currently learning **ReactJS & JavaScript.**
+- 🌱 I’m currently learning **Frontend Technologies & Product Management Skills.**
 
-- 💬 Ask me about **Frontend Tech Stack.**
+- 💬 Ask me about **Development & Product.**
 
 - 📫 How to reach me **itsamanable@gmail.com**
 
