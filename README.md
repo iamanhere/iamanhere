@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Frontend Technologies & Product Management Skills.**
 
-- 💬 Ask me about **Development & Product.**
+- 💬 Ask me about **Product & Development.**
 
-- 📫 How to reach me **itsamanable@gmail.com**
+- 📫 How to reach me **singhaman.connect@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
