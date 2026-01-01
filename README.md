@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanhere&label=Profile%20views&color=0e75b6&style=flat" alt="iamanhere" /> </p>
 
-- 🔭 I’m currently working on **KPI Tool For Marketing Agency.**
+- 🔭 I’m currently working on **AI Agents For Automation!.**
 
-- 🌱 I’m currently learning **Frontend Technologies & Product Management Skills.**
+- 🌱 I’m currently learning **Product Management Skills & Tech Development.**
 
 - 💬 Ask me about **Product & Development.**
 
